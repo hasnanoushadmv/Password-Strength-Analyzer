@@ -1,1 +1,1 @@
-# Password-Strength-Analyzer
+# Phishing-Awareness-Simulator
